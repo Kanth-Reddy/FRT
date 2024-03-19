@@ -4,7 +4,7 @@ This is a web based application developed for health retable based wesite in ind
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 **Project Link** - https://red-island-0a7a04d00.5.azurestaticapps.net 
-**Project demo Link** - 
+**Project demo Link** - https://drive.google.com/file/d/1hvSz4vds-pXNJe7mJz573Pe7DSAVkLgN/view?usp=sharing
 
 Azure technologies used for project
 
